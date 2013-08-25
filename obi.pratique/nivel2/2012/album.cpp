@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int album() {
 	int x, y, l1, h1, l2, h2;
 	cin >> x >> y;
 	cin >> l1 >> h1;
